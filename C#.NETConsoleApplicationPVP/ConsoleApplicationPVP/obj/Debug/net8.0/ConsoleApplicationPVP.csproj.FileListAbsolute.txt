@@ -1,0 +1,14 @@
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\bin\Debug\net8.0\ConsoleApplicationPVP.exe
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\bin\Debug\net8.0\ConsoleApplicationPVP.deps.json
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\bin\Debug\net8.0\ConsoleApplicationPVP.runtimeconfig.json
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\bin\Debug\net8.0\ConsoleApplicationPVP.dll
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\bin\Debug\net8.0\ConsoleApplicationPVP.pdb
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.AssemblyInfo.cs
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.dll
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\refint\ConsoleApplicationPVP.dll
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.pdb
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ConsoleApplicationPVP.genruntimeconfig.cache
+C:\Users\vasil\Desktop\C#\ConsoleApplicationPVP\ConsoleApplicationPVP\obj\Debug\net8.0\ref\ConsoleApplicationPVP.dll
